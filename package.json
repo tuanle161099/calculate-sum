@@ -1,0 +1,19 @@
+{
+  "name": "calculate",
+  "version": "1.0.0",
+  "description": "`npm i calculate-sum`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanle161099/calculate-sum.git"
+  },
+  "author": "kio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanle161099/calculate-sum/issues"
+  },
+  "homepage": "https://github.com/tuanle161099/calculate-sum#readme"
+}
